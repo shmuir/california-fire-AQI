@@ -23,8 +23,8 @@ Microsoft Planetary Computer. Landsat Collection 2 Level-2. https://planetarycom
     │   ca_fires_aqi.ipynb    
     │
     └───data
-        │   California_Fire_Perimeters_2017
-        |   │   fire shapefiles
+        |   landsat8-2018-01-26-sb-simplified.nc
         |
-        │   landsat8-2018-01-26-sb-simplified.nc
+        └───California_Fire_Perimeters_2017
+        │   │   fire shapefiles 
 
