@@ -16,5 +16,13 @@ Environmental Protection Agency. Air Quality Index. https://www.airnow.gov/aqi/a
 
 Microsoft Planetary Computer. Landsat Collection 2 Level-2. https://planetarycomputer.microsoft.com/dataset/landsat-c2-l2#overview
 
+### File Structure
 
+|---data
+    |--California_Fire_Perimeters_2017
+    |--landsat8-2018-01-26-sb-simplified.nc
+|
+|---ca_fires.aqi.ipynb
+|
+|---README.md
 
