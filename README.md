@@ -1,4 +1,4 @@
-# Air quality and Fire extent in Santa Barbara County in 2017-2018
+# Air quality and Fire extent in Santa Barbara County 2017-2018
 
 This is a final project for EDS220: Working With Environmental Datasets for the Masters of Environmental Data Science program at the Bren School at UCSB. 
 
