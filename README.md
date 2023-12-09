@@ -4,9 +4,9 @@ This is a final project for EDS220: Working With Environmental Datasets for the 
 
 The goal of this project is to become more comfortable working with environmental and spatial data in Python by using air quality and fire data to look at the effects of the Thomas Fire in Santa Barbara County. This includes:
 
-1. Reading in the various datasets
-2. Plotting the extent of the Thomas Fire in Santa Barbara County, CA in 2017
-3. Analyzing differences in the Air Quality Index (AQI) over 2017-2018 as a time series plot
+1. Reading in Landsat data, fire shapefiles, and time-series data.
+2. Plotting the extent of the Thomas Fire in Santa Barbara County, CA in 2017 and visualizing the burn scar. 
+3. Analyzing differences in the Air Quality Index (AQI) over 2017-2018 as a time series plot.
 
 ### Data Citations
 
