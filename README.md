@@ -1,6 +1,6 @@
 # Air quality index and Fire extent in Santa Barbara County 2017-2018
 
-This is a final project for EDS220: Working With Environmental Datasets for the Masters of Environmental Data Science program at the Bren School at UCSB. [Check out my blog post](https://shmuir.github.io/projects/2023-12-05-fire-aqi/) from this project!
+This is a final project for EDS220: Working With Environmental Datasets for the Masters of Environmental Data Science program at the Bren School at UCSB. Check out my [blog post](https://shmuir.github.io/projects/2023-12-05-fire-aqi/) from this project!
 
 The goal of this project is to become more comfortable working with environmental and spatial data in Python by using air quality and fire data to look at the effects of the Thomas Fire in Santa Barbara County. This includes:
 
